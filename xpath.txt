@@ -1,0 +1,7 @@
+Links = //div[@class="articleHeadline"]/h2/a/@href
+
+Título de noticia = //h1[@class="articleTitle"]/text()
+
+Resumen de noticia = //div[@class="header_ArticleRelatedContent"]/ul/li/text()
+
+Cuerpo de noticia = //div[@class="Article__paragraphGroup col-lg-10 col-md-12 col-12"]/p[not(@class)]/text()
