@@ -1,0 +1,36 @@
+¿Por qué se hunde el bitcoin? La madre de todas las burbujas que alentó el 'tether' deja caídas del 20%
+
+La falta de efectivo en el sistema acentúa los movimientos de precio
+
+La tercera gran burbuja del bitcoin parece haber llegado al momento de la verdad. La criptomoneda registra pérdidas del 20% esta semana después de tres meses de subida fugaz en los que llevó a 
+
+, en lo que BofA tildó de "la madre de todas las burbujas" en un informe del pasado jueves. Un alza y caída en el que destaca el efecto del 'tether', el 'token' que sostiene el mercado de criptodivisas y que es el principal artífice de su crecimiento.
+
+El tether es lo que se conoce como "stablecoin", es decir, una moneda cuyo valor sobre el papel está atado al del dólar y que, en la práctica, actúa como una ficha de casino, que permite a los usuarios del entorno de las criptomonedas operar sin ver dólares en ningún momento. La existencia de esta moneda es muy simple: dar liquidez a un mercado muy escaso de dinero en efectivo, especialmente en las casas de cambio que no pueden operar con cuentas bancarias normales por no cumplir las normas de los reguladores, como Binance o Huobi. Si no hay suficientes dólares, debieron pensar sus creadores, la casa de cambio Bitfinex, pues nos los inventamos.
+
+  
+
+ 
+
+En los últimos tres meses, el aumento del precio del bitcoin ha ido aparejado de un crecimiento descontrolado de la cantidad de tethers en circulación. En concreto, la cifra de 'dólares falsos' ha pasado de 15.500 millones en octubre a 24.200 millones esta semana, un aumento del casi el 55%. Las inyecciones de liquidez han ido cogiendo carrerilla según aumentaba el precio de la moneda. "Los grandes inversores necesitan que el precio de la moneda no se hunda. Y a medida que pasa el tiempo, el precio debe subir cada vez más para engatusar a nuevos compradores de que adquieran bitcoins con dinero real; esta es la única fuente de liquidez en el sistema", explica el experto en criptomonedas David Gerard, autor de 
+
+ y 
+
+, dos libros sobre la parte más oscura del mundo de las criptodivisas.
+
+El principal problema es que el bitcoin requiere constantemente que haya un flujo de dólares para sostenerse. Dado que el funcionamiento del sistema requiere que los llamados 'mineros' estén gastando energía constantemente, necesitan vender las monedas que ganan como compensación por su trabajo. Eso supone que del sistema van saliendo dólares constantemente. Si no hay un flujo permanente de dinero fresco, el valor se hundiría. Por ello existe el tether: para crear una liquidez falsa que mantenga engrasadas las casas de cambio pese a la cantidad limitada de dinero en efectivo. Según explica Gerard, "hay muy pocos dólares en el mercado: una sola operación el pasado sábado 2 de enero, en la que alguien vendió 150 bitcoins, hizo que el precio se hundiera 3.000 dólares de golpe".
+
+Los datos son muy claros: en las últimas 24 horas, ha habido más operaciones con tether que con las dos criptomonedas más grandes, bitcoin y ethereum, juntas. En su gran mayoría, gente que compra bitcoins con tethers y viceversa, en un circulo vicioso: como el tether solo sirve para comprar más criptomonedas, la gente lo usa para eso, inflando su precio. 
+
+El problema, por supuesto, es que la cantidad de dinero en efectivo es tan baja que cuando un gran número de personas intenta vender a la vez, los precios se hunden. Y el gran aumento de valor de la criptomoneda ha animado a mucha gente a intentar recoger beneficios en las últimas horas, provocando la fuerte caída.
+
+  
+
+   
+
+Esta operación, además, es más complicada de lo que parece. "Algunas personas no tienen problemas para cobrar, pero otros cuantos tienen 
+
+ problemas para cambiar los bitcoins a dinero", dice Gerard. "Si pueden llevar sus bitcoins a una de los pocas casas de cambio que todavía tienen relación con un banco que acepte trabajar con criptomonedas, es posible que pueda vender las monedas por dinero real", pero si alguna de esas condiciones no se cumple, el resultado será recibir tethers en vez de dólares, o ver el dinero atrapado en bucles infinitos.
+
+Pero el mayor problema del bitcoin es que, más de una década desde su creación, todavía no tiene un uso específico más allá de ser un bien especulativo, una suerte de "oro digital". Y el problema de estos bienes es que nunca se sabe cuándo se acabará la música. "Este activo no tiene ningún valor intrínseco. Estamos muy cerca del momento en el que esta burbuja hiperbólica va a reventar", advierte Michael Hartnett, jefe de Estrategias de Inversión en BofA.
+

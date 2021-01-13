@@ -1,0 +1,44 @@
+¿Dónde dejé los bitcoin? Cuando olvidar una contraseña puede costar más de 200 millones de dólares
+
+Un programador de EEUU no logra recuperar una billetera con 7.002 bitcoin
+
+De los diez intentos para adivinar la contraseña, ya ha gastado ocho en vano
+
+Se suceden los casos de bitcoin extraviados o de billeteras digitales bloqueadas
+
+No se trata del primer caso, pero quizá sí de uno de los más dramáticos. Stefan Thomas es un programador informático residente en EEUU que tiene 7.002 
+
+ en una billetera digital de la que no recuerda la contraseña. Por si esto fuera poco, de los diez intentos que tiene para introducir dicha contraseña, ya ha quemado ocho sin suerte. Si no acierta en las dos siguientes tentativas, podría perder más de 200 millones de dólares.
+
+El de Thomas se suma a la larga lista de casos de personas que en su día se hicieron con importantes cantidades de bitcoin cuando su valor era simbólico y ahora, años después, con un precio que 
+
+, no son capaces de recuperarlos por no recordar una contraseña concreta o por haber perdido el dispositivo en el que estaban almacenados.
+
+Según su relato al 
+
+, en 2011, cuando residía en Suiza, Thomas realizó un vídeo explicativo sobre la criptomoneda que le fue remunerado precisamente con esos
+
+. Por aquel entonces su valor apenas se movía por entre los 1 y 10 dólares la unidad. 
+
+Despreocupado por el valor de los mismos, Thomas los dejó en una billetera digital bajo una contraseña apuntada en un papel que por supuesto al cabo de un tiempo extravió. Esta contraseña le permitiría desbloquear un pequeño disco duro, conocido como IronKey, que contiene las claves privadas de la citada billetera digital con los bitcoin. Si se falla en los diez intentos para introducir la contraseña, el contenido podría quedar cifrado para siempre.
+
+"Me tiraba en la cama y pensaba en ello", rememora Thomas sobre sus intentos para recordar la contraseña. "Entonces iba al ordenador con una nueva estrategia, no funcionaba, y volvía a estar desesperado".
+
+Desesperación es lo que también ha sentido el empresario de Los Ángeles Brad Yasar, poseedor de varios ordenadores que contienen miles de bitcoin que ahora valen cientos de millones de dólares que minó en los primeros compases de la criptomoneda. "A lo largo de los años, diría que he pasado cientos de horas tratando de volver a ingresar a estas billeteras", narra al 
+
+, a la vez que lamenta: "No quiero que me recuerden todos los días que lo que tengo ahora es una fracción de lo que podría tener y perdí".
+
+Un episodio similar le ocurrió a Gabriel Abed, de 34 años, un emprendedor de Barbados que en 2011 perdió alrededor de 800 bitcoin -ahora tendrían un valor de 25 millones de dólares- cuando un colega formateó el ordenador portátil que fatalmente contenía las claves para acceder a su billetera digital con los bitcoin.
+
+  
+
+   
+
+Lo cierto es que, 
+
+, según la firma de datos de criptomonedas Chainalysis. Wallet Recovery Services, una empresa que ayuda a encontrar claves digitales perdidas, dijo que había recibido 70 solicitudes al día de personas que querían ayuda para recuperar sus criptodivisas.
+
+Con cuentas bancarias tradicionales y billeteras online, algunos bancos y otras compañías financieras como PayPal sí pueden proporcionar a los usuarios las contraseñas de sus cuentas o restablecer las contraseñas perdidas. Pero el bitcoin no tiene ninguna empresa que proporcione o almacene contraseñas. 
+
+Ese 'ir por libre' de la criptomoneda en detrimento de los bancos es lo que terminó de desencantar a un Thomas que, no obstante, y antes de gastar las dos 'balas' que le quedan en el revólver para descifrar la fatídica contraseña, reconoce que sí ha podido recuperar criptomonedas de otras billeteras. Igualmente, reconoce que hizo dinero trabajando con Ripple, otra plataforma de criptodivisas, al revalorizarse la suya, el ripple (XRP).
+

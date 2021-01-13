@@ -1,0 +1,36 @@
+La CNMV recomienda buscar acuerdos para sustituir el Líbor ante su previsible desaparición a finales de 2021
+
+La Comisión Nacional del Mercado de Valores (
+
+) ha emitido una serie de recomendaciones para que las entidades financieras y el resto de empresas con exposición al Líbor puedan adaptarse a la 
+
+.
+
+El supervisor les aconseja que, en la medida de lo posible, traten de alcanzar 
+
+ en sus instrumentos financieros o contratos.
+
+   El administrador del índice está llevando a cabo una consulta pública sobre su intención de cesar en la publicación del índice más allá de finales de 2021 en todos los vencimientos disponibles en euro, franco suizo, yen japonés y libra esterlina, así como los vencimientos una semana y dos meses correspondientes al dólar estadounidense. Los restantes vencimientos en esta última divisa, se dejarían de publicar a partir de 
+
+.
+
+   Asimismo, las autoridades competentes de Reino Unido y de EEUU cesarán en la publicación del Líbor a partir de estas fechas, instando a las entidades a dejar de celebrar nuevos contratos que utilicen el índice tan pronto como sea posible y, en todo caso, antes de 31 de diciembre de 2021.
+
+   Para ayudar a que las entidades que utilizan el índice en sus operaciones financieras y contratos gestionen de forma adecuada la transición, la CNMV ha reiterado las recomendaciones contenidas en su comunicación de julio de 2019.
+
+   En concreto, ha incidido en la conveniencia de realizar un seguimiento de los desarrollos y actuaciones de los grupos de trabajo y de los principales avances en el proceso de reforma, así como en la identificación y evaluación de los riesgos y posibles impactos derivados de su exposición.
+
+   De igual forma, ha recomendado el 
+
+ para planificar las acciones de implementación correspondientes y contar con una estructura organizativa adecuada para coordinar el diseño e implementación de los trabajos de transición.
+
+   Para aplicar estas recomendaciones, la CNMV aconseja tomar en consideración la hoja de ruta de transición global del Consejo de Estabilidad Financiera (FSB, por sus siglas en inglés) y valora el protocolo y el suplemento de ISDA (
+
+) sobre cláusulas de respaldo en contratos de derivados referenciados a índices como el Líbor.
+
+   En esta línea, recomienda a las entidades financieras, empresas y administraciones públicas españolas que consideren la conveniencia de adherirse a dicho protocolo, teniendo en cuenta su situación particular y sus propias necesidades.
+
+   Debido a la existencia de contratos e instrumentos que no cuentan con cláusulas de respaldo adecuadas para hacer frente a la desaparición del Líbor y cuya modificación no resulta posible en el corto período restante hasta su supresión al final de 2021, la Unión Europea ha aprobado un mecanismo que permitirá a la Comisión Europea designar un tipo sustitutivo legal que será de aplicación a todos los contratos e instrumentos financieros que no contengan un índice sustituto aplicable con carácter permanente y estén sujetos a la legislación de un Estado miembro de la Unión Europea.
+
+   En otras jurisdicciones como Reino Unido y Estados Unidos se está considerando una solución legislativa similar, pero la CNMV ha advertido de que estas posibles soluciones pueden no resultar aplicables a todos los instrumentos financieros y contratos vinculados al Líbor, por lo que recomienda a las entidades financieras y no financieras que, en la medida de lo posible, traten de alcanzar acuerdos para sustituir el Líbor o incluir índices sustitutivos robustos en sus instrumentos financieros o contratos.
+
